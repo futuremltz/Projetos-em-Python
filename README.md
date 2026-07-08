@@ -21,7 +21,7 @@ projetos-python/
 | # | Projeto | Foco principal | Status |
 |---|---------|-----------------|--------|
 | 01 | [Calculadora de IMC com Diagnóstico](./01-calculadora-imc) | Variáveis, operadores aritméticos, condicionais, tratamento de exceções | ✅ Concluído |
-| 02 | [Conversor de Unidades Multi-Menu](./02-conversor-unidades) | Estruturas de decisão, loops, funções separadas por responsabilidade, dicionário de opções | ✅ Concluído |
+| 02 | [Conversor de Unidades Multi-Menu](./02-conversor-de-unidades) | Estruturas de decisão, loops, funções separadas por responsabilidade, dicionário de opções | ✅ Concluído |
 | 03 | [Validador de Senha Forte](./03-validador-senha) | Strings, expressões regulares (regex), validação de critérios | 🔜 |
 | 04 | [Jogo de Adivinhação Inteligente](./04-jogo-adivinhacao) | Módulo `random`, loops, lógica condicional, contadores | 🔜 |
 | 05 | [Gerenciador de Tarefas em Memória (To-Do List Simples)](./05-todo-list) | Listas, dicionários, funções, manipulação de dados em memória | 🔜 |
