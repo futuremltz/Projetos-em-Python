@@ -1,4 +1,4 @@
-# PROJETO #04 — Organizador de Arquivos Automático
+# Organizador de Arquivos Automático
  
 ![Python](https://img.shields.io/badge/linguagem-Python-blue.svg)
 ![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen.svg)
