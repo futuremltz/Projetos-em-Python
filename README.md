@@ -17,7 +17,7 @@ projetos-python/
 | 01 | [Calculadora de IMC com Diagnóstico](./01-calculadora-imc) | Variáveis, operadores aritméticos, condicionais, tratamento de exceções | ✅ Concluído |
 | 02 | [Conversor de Unidades Multi-Menu](./02-conversor-unidades) | Estruturas de decisão, loops, funções separadas por responsabilidade, dicionário de opções | ✅ Concluído |
 | 03 | [Validador de Senha Forte](./03-validador-senha) | Manipulação de strings/caracteres, contadores, laços `for` | ✅ Concluído |
-| 04 | [Organizador de Arquivos Automático](./04-organizador-de-arquivos-automatico) | Módulos `os` e `shutil`, dicionários como mapeamento, manipulação de diretórios e arquivos | ✅ Concluído |
+| 04 | [Organizador de Arquivos Automático](./04-Organizador-de-Arquivos-Automático) | Módulos `os` e `shutil`, dicionários como mapeamento, manipulação de diretórios e arquivos | ✅ Concluído |
 | 05 | [Jogo de Adivinhação Inteligente](./05-jogo-adivinhacao) | Módulo `random`, loops, lógica condicional, contadores | 🔜 |
 | 06 | [Gerenciador de Tarefas em Memória (To-Do List Simples)](./06-todo-list) | Listas, dicionários, funções, manipulação de dados em memória | 🔜 |
 | 07 | [Calculadora de Notas com Estatísticas](./07-calculadora-notas) | Listas, estatística básica (média, mediana, desvio padrão), formatação de saída | 🔜 |
