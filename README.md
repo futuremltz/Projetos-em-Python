@@ -1,4 +1,9 @@
 # 🐍 Projetos Python
+
+<p>
+  <a href="https://github.com/futuremltz/Projetos-em-Python/actions/workflows/build.yml"><img src="https://github.com/futuremltz/Projetos-em-Python/actions/workflows/build.yml/badge.svg" alt="Build" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/licen%C3%A7a-MIT-blue.svg" alt="Licença MIT" /></a>
+</p>
 Repositório com meus projetos práticos de Python, organizados em ordem cronológica conforme fui desenvolvendo. A ideia é evoluir gradualmente em complexidade, consolidando fundamentos antes de avançar para tópicos mais avançados.
 Cada projeto fica em sua própria pasta, numerada na ordem em que foi feito, com seu próprio README detalhando objetivo, funcionalidades e aprendizados.
 ## 🎬 Demonstração
