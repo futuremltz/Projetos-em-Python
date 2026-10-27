@@ -1,6 +1,14 @@
 # 🐍 Projetos Python
 Repositório com meus projetos práticos de Python, organizados em ordem cronológica conforme fui desenvolvendo. A ideia é evoluir gradualmente em complexidade, consolidando fundamentos antes de avançar para tópicos mais avançados.
 Cada projeto fica em sua própria pasta, numerada na ordem em que foi feito, com seu próprio README detalhando objetivo, funcionalidades e aprendizados.
+## 🎬 Demonstração
+
+<p align="center">
+  <img src="assets/organizador-demo.gif" alt="Organizador separando os arquivos de uma pasta por tipo" />
+</p>
+
+<p align="center"><i>Projeto 04 – Organizador de Arquivos Automático, rodando em uma pasta de teste.</i></p>
+
 ## 📂 Estrutura
 ```
 projetos-python/

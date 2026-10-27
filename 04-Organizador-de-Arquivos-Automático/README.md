@@ -13,6 +13,14 @@ O foco principal deste projeto é fixar conceitos de manipulação de arquivos e
 - Laços de repetição e condicionais aplicados a arquivos reais do sistema
 **Esforço:** Rápido
  
+## 🎬 Demonstração
+
+<p align="center">
+  <img src="../assets/organizador-demo.gif" alt="Organizador separando os arquivos de uma pasta por tipo" />
+</p>
+
+<p align="center"><i>Rodando em uma pasta de teste.</i></p>
+
 ## 🚀 Funcionalidades
  
 - **Varredura da pasta alvo** com `os.listdir()`, ignorando subpastas já existentes (`os.path.isdir()`).
