@@ -18,17 +18,12 @@ Cada projeto agora vive **no seu próprio repositório**, com README detalhando 
 
 ## 📌 Série de exercícios
 
-| # | Projeto | Foco principal | Status |
-|---|---------|-----------------|--------|
-| 01 | [Calculadora de IMC com Diagnóstico](https://github.com/futuremltz/Calculadora-IMC) | Variáveis, operadores aritméticos, condicionais, tratamento de exceções | ✅ Concluído |
-| 02 | [Conversor de Unidades Multi-Menu](https://github.com/futuremltz/Conversor-de-Unidades) | Estruturas de decisão, loops, funções separadas por responsabilidade, dicionário de opções | ✅ Concluído |
-| 03 | [Validador de Senha Forte](https://github.com/futuremltz/Validador-de-Senha) | Manipulação de strings/caracteres, contadores, laços `for` | ✅ Concluído |
-| 04 | [Organizador de Arquivos Automático](https://github.com/futuremltz/Organizador-de-Arquivos) | Módulos `os` e `shutil`, dicionários como mapeamento, manipulação de diretórios e arquivos | ✅ Concluído |
-| 05 | Jogo de Adivinhação Inteligente | Módulo `random`, loops, lógica condicional, contadores | 🔜 |
-| 06 | Gerenciador de Tarefas em Memória (To-Do List Simples) | Listas, dicionários, funções, manipulação de dados em memória | 🔜 |
-| 07 | Calculadora de Notas com Estatísticas | Listas, estatística básica (média, mediana, desvio padrão), formatação de saída | 🔜 |
-
-> A tabela será atualizada conforme os projetos forem concluídos (status muda de 🔜 para ✅ e o nome vira link para o repositório).
+| # | Projeto | Foco principal |
+|---|---------|-----------------|
+| 01 | [Calculadora de IMC com Diagnóstico](https://github.com/futuremltz/Calculadora-IMC) | Variáveis, operadores aritméticos, condicionais, tratamento de exceções |
+| 02 | [Conversor de Unidades Multi-Menu](https://github.com/futuremltz/Conversor-de-Unidades) | Estruturas de decisão, loops, funções separadas por responsabilidade, dicionário de opções |
+| 03 | [Validador de Senha Forte](https://github.com/futuremltz/Validador-de-Senha) | Manipulação de strings/caracteres, contadores, laços `for` |
+| 04 | [Organizador de Arquivos Automático](https://github.com/futuremltz/Organizador-de-Arquivos) | Módulos `os` e `shutil`, dicionários como mapeamento, manipulação de diretórios e arquivos |
 
 ## 🧩 Outros projetos em Python
 
